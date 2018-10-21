@@ -41,7 +41,6 @@ return (
 <td className="song-number">{index+1}</td>
 <td className="song-title">{song.title}</td>
 <td className="song-duration">{song.duration}</td>
-
 </tr>
 )}
 </tbody>
